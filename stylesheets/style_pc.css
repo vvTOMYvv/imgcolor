@@ -10,7 +10,6 @@ p, span {
     color: #333;
     letter-spacing: 2px;
     font-size: 16px;
-    font-weight: lighter;
 }
 
 .bold {
@@ -166,7 +165,7 @@ span:hover + p.menu__text {
 .navi__list.active::before {
     position: absolute;
     bottom: 0;
-    width: 28px;
+    width: 30px;
     height: 2px;
     background-color: #333;
     content: "";
